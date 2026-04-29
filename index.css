@@ -2,7 +2,7 @@
 
 .hero-content {
     min-height: 110vh;
-    background-image: url(../image/niku-width.jpg);
+    background-image: url(niku-width.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -164,7 +164,7 @@ h1 {
     
     .hero-content {
         min-height: 80vh;
-        background-image: url(../image/nikus.jpg);
+        background-image: url(nikus.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -173,7 +173,7 @@ h1 {
 @media(max-width:800px) {
     .hero-content {
         min-height: 70vh;
-        background-image: url(../image/nikus.jpg);
+        background-image: url(nikus.jpg);
         background-position: center;
         background-size: cover;
         gap: 100px;
