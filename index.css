@@ -6,7 +6,7 @@
 
 .hero-content {
     position: relative;
-    background-image: url(../image/niku-width.jpg);
+    background-image: url(niku-width.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -153,7 +153,7 @@ h1 {
 @media(max-width:1024px){
     .hero-content {
         height: 90vh;
-        background-image: url(../image/nikus.jpg);
+        background-image: url(/nikus.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -165,7 +165,7 @@ h1 {
     }
 
     .hero-content {
-        background-image: url(../image/nikus.jpg);
+        background-image: url(nikus.jpg);
         background-size: cover;
     }
 
