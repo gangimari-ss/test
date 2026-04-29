@@ -103,6 +103,10 @@ img{
     font-weight: bold;
 }
 
+.info {
+    text-align: center;
+}
+
 a {
     color: inherit;
     text-decoration: none;
